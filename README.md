@@ -5,5 +5,7 @@ Youtube Downloader
  - Install yt-dlp
    ```
    pip install yt-dlp
+
+   pip install yt_dlp
    ```
 - Run The .bat file and it should work
